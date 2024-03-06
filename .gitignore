@@ -1,0 +1,5 @@
+# ignore the following files
+config.json
+
+# ignore the following folders
+node_modules/
