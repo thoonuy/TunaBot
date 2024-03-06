@@ -1,5 +1,6 @@
 # ignore the following files
 config.json
+.env
 
 # ignore the following folders
 node_modules/
